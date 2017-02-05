@@ -9,11 +9,6 @@ YourFood is a mobile application that provides healthy food options for a user w
 
 ![Alt text](https://github.com/jodz959/YourFood/blob/master/Capture1.PNG)
 
-
-
-
 ![Alt text](https://github.com/jodz959/YourFood/blob/master/Capture2.PNG)
-
-
 
 ![Alt text](https://github.com/jodz959/YourFood/blob/master/Capture3.PNG)
